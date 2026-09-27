@@ -13,6 +13,7 @@ Outkatkos is a simple *server outage reporting* system written in Python.
 - [*License*](#license)
 - [*Name meaning*](#name-meaning)
 - [*Editor notice*](#editor-notice)
+- [*Native executable download*](#native-executable-download)
 - [*Example*](#example)
 
 ## License
@@ -29,6 +30,16 @@ The name **"outkatkos"** derives from the *first 3 words of the englisch transla
 ## Editor notice
 
 This project was written in assistance with **AI** and **I used the Helix editor in combination with the *pyrefly* python language server**.
+
+## Native executable download
+
+People who don't like to install the python interpreter can also download the native executable of the current version (v1.0).
+The basic release URL on github for that version is [https://github.com/asaeppel4231/outkatkos/releases/tag/v1.0](https://github.com/asaeppel4231/outkatkos/releases/tag/v1.0).
+You can download the native executables directly with the following links depending on your operating system:
+
+- Linux: [https://github.com/asaeppel4231/outkatkos/releases/download/v1.0/outkatkos-linux](https://github.com/asaeppel4231/outkatkos/releases/download/v1.0/outkatkos-linux) (native x86_64 ELF binary)
+- Windows: [https://github.com/asaeppel4231/outkatkos/releases/download/v1.0/outkatkos-windows.exe](https://github.com/asaeppel4231/outkatkos/releases/download/v1.0/outkatkos-windows.exe) (native x86_64 EXE file)
+- macOS: [https://github.com/asaeppel4231/outkatkos/releases/download/v1.0/outkatkos-macos](https://github.com/asaeppel4231/outkatkos/releases/download/v1.0/outkatkos-macos) (native arm64 Mach-O Binary)
 
 ## Example
 
