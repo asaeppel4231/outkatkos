@@ -46,7 +46,7 @@ jobs:
 
       - name: Compile with Nuitka
         run: |
-          python -m nuitka --onefile --standalone --include-data-dir=templates=templates -o ${{ matrix.binary_path }} outkatkos.py
+          python -m nuitka --onefile --standalone --include-data-dir=templates=templates -o ${{ matrix.binary_path }} outkatkos.py --assume-yes-for-downloads
 
       - name: Upload Binaries to Release
         uses: svenstaro/upload-release-action@v2
