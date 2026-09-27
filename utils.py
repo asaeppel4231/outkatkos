@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# This file (utils.py) is part of the outkatkos project.
+# SPDX-License-Identifier: MIT
+# Partial AI generated
+
 import sys
 
 def get_advertising_text(template_path: str) -> str:

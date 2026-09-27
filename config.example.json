@@ -6,6 +6,6 @@
       "Person Name, e.g. Person 1": "Email address of person 1",
       "Person Name, e.g. Person 2 (optional)": "Email address of person 2 (optional)"
   },
-  "team-or-not": 0
+  "team-or-not": 0,
   "advertising": false
 }

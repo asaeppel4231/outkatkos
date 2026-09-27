@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-#
+# This file (outkatkos.py) is part of the outkatkos project.
+# SPDX-License-Identifier: MIT
 # Partial AI generated
-# 
 
 from i18n import parser_help_texts, error_texts, email_subject, information_texts
 import utils

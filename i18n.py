@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# This file (i18n.py) is part of the outkatkos project.
+# SPDX-License-Identifier: MIT
+# Error and information texts partial generated using AI
+
 parser_help_texts = {
     "--ds": {
         "de": "Datum des Starts des Serverausfalls",
