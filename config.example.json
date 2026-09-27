@@ -1,0 +1,11 @@
+{
+  "email-name": "Your name on the email server, for example asaeppel4231 when having the email address asaeppel4231@gmx.de",
+  "email-provider": "The domain of your provider, for example gmx.de when having the email address asaeppel4231@gmx.de",
+  "email-password": "Your email passwort here without encryption",
+  "recipients": {
+      "Person Name, e.g. Person 1": "Email address of person 1",
+      "Person Name, e.g. Person 2 (optional)": "Email address of person 2 (optional)"
+  },
+  "team-or-not": 0
+  "advertising": false
+}

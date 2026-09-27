@@ -1,0 +1,3 @@
+Diese Email wurde automatisch durch outkatkos generiert, einem System zur automatischen Serverausfall-Meldung
+Mehr Informationen (auf Englisch):
+https://github.com/asaeppel4231/outkatkos

@@ -1,0 +1,8 @@
+Hi ${0},
+
+${1} ${2}, dass der Server ${3} am ${4} bis zum ${5} von ${6} bis ${7} offline sein wird.
+
+Mit freundlichen Grüßen,
+${8}
+
+${9} 

@@ -1,0 +1,8 @@
+Hi ${0},
+
+${1} ${2} to inform you that the server ${3} will be offline on ${4} until ${5} from ${6} to ${7}.
+
+Best regards,
+${8}
+
+${9}
